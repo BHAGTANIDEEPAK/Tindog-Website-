@@ -1,2 +1,1 @@
-# Tindog-Website-
-USING HTML CSS AND BOOTSTRAP
+TinDog Starting Files
